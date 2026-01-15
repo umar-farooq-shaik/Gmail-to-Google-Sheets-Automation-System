@@ -499,9 +499,9 @@ This project is provided as-is for evaluation purposes.
 
 ## 👤 Author
 
-Senior Python Backend Engineer - Gmail & Google Sheets Automation Specialist
+Umar Farooq
 
 ---
 
-**Built with ❤️ using Python 3, Gmail API, and Google Sheets API**
+**Built using Python 3, Gmail API, and Google Sheets API**
 
